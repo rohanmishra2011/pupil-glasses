@@ -16,6 +16,3 @@ speak_query_answers = true
 [speech_input]
 enabled = true
 engine = "vosk"
-
-[face_identity]
-enabled = true

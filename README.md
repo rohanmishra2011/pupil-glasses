@@ -1,4 +1,4 @@
-# PUPIL / IRIS Smart Glasses
+# PUPIL Smart Glasses
 
 PUPIL is an offline Raspberry Pi 5 smart-glasses prototype for object-memory support during early cognitive decline. It uses a glasses-mounted webcam, YOLO11n object detection, a waist-mounted MPU6050 IMU, local SQLite memory, Vosk speech-to-text, Qwen2.5 0.5B fallback query logic, and Piper text-to-speech.
 
